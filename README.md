@@ -1,4 +1,4 @@
-# Birthday paradox
+# Birthday paradox (Python)
 ## Birthday paradox is a probabilistic phenomenon that happens when we notice that is not necessary a lot of people sharing the same environment to some of them to have the same birthday. Indeed, the number of people may be less than you think for this to happen!
 
 ### If 23 people share the same environment, that's already 50% of chance some of them share the same birthday. If it's 70 people, chances jumps to 99,9%.
